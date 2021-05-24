@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"Practice\\": "src/"}
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
